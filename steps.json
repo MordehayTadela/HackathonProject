@@ -1,0 +1,131 @@
+[
+    {
+        "variable": "y",
+        "value": 10,
+        "all_variables": {
+            "y": 10
+        }
+    },
+    {
+        "variable": "x",
+        "value": 5,
+        "all_variables": {
+            "y": 10,
+            "x": 5
+        }
+    },
+    {
+        "variable": "i",
+        "value": 0,
+        "all_variables": {
+            "y": 10,
+            "x": 5,
+            "i": 0
+        }
+    },
+    {
+        "variable": "y",
+        "value": 13,
+        "all_variables": {
+            "y": 13,
+            "x": 5,
+            "i": 0
+        }
+    },
+    {
+        "variable": "i",
+        "value": 1,
+        "all_variables": {
+            "y": 13,
+            "x": 5,
+            "i": 1
+        }
+    },
+    {
+        "variable": "y",
+        "value": 16,
+        "all_variables": {
+            "y": 16,
+            "x": 5,
+            "i": 1
+        }
+    },
+    {
+        "variable": "i",
+        "value": 2,
+        "all_variables": {
+            "y": 16,
+            "x": 5,
+            "i": 2
+        }
+    },
+    {
+        "variable": "y",
+        "value": 19,
+        "all_variables": {
+            "y": 19,
+            "x": 5,
+            "i": 2
+        }
+    },
+    {
+        "variable": "i",
+        "value": 3,
+        "all_variables": {
+            "y": 19,
+            "x": 5,
+            "i": 3
+        }
+    },
+    {
+        "variable": "y",
+        "value": 22,
+        "all_variables": {
+            "y": 22,
+            "x": 5,
+            "i": 3
+        }
+    },
+    {
+        "variable": "i",
+        "value": 4,
+        "all_variables": {
+            "y": 22,
+            "x": 5,
+            "i": 4
+        }
+    },
+    {
+        "variable": "y",
+        "value": 25,
+        "all_variables": {
+            "y": 25,
+            "x": 5,
+            "i": 4
+        }
+    },
+    {
+        "variable": "x",
+        "value": 5,
+        "all_variables": {
+            "y": 25,
+            "x": 5,
+            "i": 4
+        }
+    },
+    {
+        "variable": "k",
+        "value": null,
+        "all_variables": {
+            "y": 25,
+            "x": 5,
+            "i": 4
+        },
+        "error": {
+            "type": "undefined_variable",
+            "variable": "k",
+            "message": "המשתנה k לא הוגדר לפני השימוש בו",
+            "hint": "כדי לפתור את הבעיה, יש להגדיר את k לפני שמשתמשים בו."
+        }
+    }
+]

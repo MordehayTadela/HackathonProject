@@ -15,12 +15,12 @@
         }
     },
     {
-        "variable": "i",
+        "variable": "j",
         "value": 0,
         "all_variables": {
             "y": 10,
             "x": 5,
-            "i": 0
+            "j": 0
         }
     },
     {
@@ -29,16 +29,16 @@
         "all_variables": {
             "y": 13,
             "x": 5,
-            "i": 0
+            "j": 0
         }
     },
     {
-        "variable": "i",
+        "variable": "j",
         "value": 1,
         "all_variables": {
             "y": 13,
             "x": 5,
-            "i": 1
+            "j": 1
         }
     },
     {
@@ -47,16 +47,16 @@
         "all_variables": {
             "y": 16,
             "x": 5,
-            "i": 1
+            "j": 1
         }
     },
     {
-        "variable": "i",
+        "variable": "j",
         "value": 2,
         "all_variables": {
             "y": 16,
             "x": 5,
-            "i": 2
+            "j": 2
         }
     },
     {
@@ -65,16 +65,16 @@
         "all_variables": {
             "y": 19,
             "x": 5,
-            "i": 2
+            "j": 2
         }
     },
     {
-        "variable": "i",
+        "variable": "j",
         "value": 3,
         "all_variables": {
             "y": 19,
             "x": 5,
-            "i": 3
+            "j": 3
         }
     },
     {
@@ -83,16 +83,16 @@
         "all_variables": {
             "y": 22,
             "x": 5,
-            "i": 3
+            "j": 3
         }
     },
     {
-        "variable": "i",
+        "variable": "j",
         "value": 4,
         "all_variables": {
             "y": 22,
             "x": 5,
-            "i": 4
+            "j": 4
         }
     },
     {
@@ -101,16 +101,7 @@
         "all_variables": {
             "y": 25,
             "x": 5,
-            "i": 4
-        }
-    },
-    {
-        "variable": "x",
-        "value": 5,
-        "all_variables": {
-            "y": 25,
-            "x": 5,
-            "i": 4
+            "j": 4
         }
     },
     {
@@ -119,7 +110,7 @@
         "all_variables": {
             "y": 25,
             "x": 5,
-            "i": 4
+            "j": 4
         },
         "error": {
             "type": "undefined_variable",
